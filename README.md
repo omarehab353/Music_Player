@@ -1,2 +1,2 @@
 # Music_Player
-small project
+small project on data structures
